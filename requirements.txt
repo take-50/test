@@ -1,4 +1,5 @@
 streamlit
+streamlit-cropper
 numpy
 pandas
 scikit-learn
